@@ -10,7 +10,7 @@ namespace DZ._30._09
     {
         static void Main(string[] args)
         {
-            /*Console.WriteLine("ДЗ. Задача1");
+            Console.WriteLine("ДЗ. Задача1");
             Console.WriteLine("Введи размеры окна");
             int size_a = Convert.ToInt32(Console.ReadLine());
             int size_b = Convert.ToInt32(Console.ReadLine());
@@ -173,7 +173,7 @@ namespace DZ._30._09
             for (int i = 0; i < arr.Length; i++)
             {
                 Console.Write(arr[i] + " ");
-            }*/
+            }
 
 
 
